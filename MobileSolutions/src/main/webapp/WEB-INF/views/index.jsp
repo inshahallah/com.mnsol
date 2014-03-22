@@ -239,6 +239,7 @@
 		  <li><a href="#" data-filter=".consulting">Screen Repair</a></li>
 		  <li><a href="#" data-filter=".social-media">Water Damage</a></li>
 		  <li><a href="#" data-filter=".mobile">Hardware Malfunction</a></li>
+		  <li><a href="#" data-filter=".data-recovery">Data Recovery</a></li>
 		</ul> 
 	  
 		<div class="row">
@@ -285,6 +286,20 @@
 						</span>
 					</a>
 				</li>
+				<li class="data-recovery">
+					<a href="#">
+                        <img src="images/data_recover/recover-iPhone-5s-data.jpg" alt="" />
+						<span class="type">Data Recovery</span>
+						<span class="portfolio-item-content">
+							<span class="header">Recover Your Data from Damaged Phone</span>
+							<span class="body">
+								<p>
+									Lost Contacts? Could not retrieve Phonebook? Not a problem!!! 
+								</p>
+							</span>
+						</span>
+					</a>
+				</li>
 				<li class="consulting">
 					<a href="#">
                         <img src="images/screen_repair/broken_iphone_by_wh4y-d3b1dup.png" alt="" />
@@ -313,6 +328,20 @@
 						</span>
 					</a>
 				</li>
+				<li class="data-recovery">
+					<a href="#">
+                        <img src="images/data_recover/Andriod-phone-data-recovery.jpg" alt="" />
+						<span class="type">Data Recovery</span>
+						<span class="portfolio-item-content">
+							<span class="header">Recover Your Deleted Data</span>
+							<span class="body">
+								<p>
+									Recover your Deleted Data from SIM & Phone with Mobile Solutions!!!
+								</p>
+							</span>
+						</span>
+					</a>
+				</li>
 				<li class="mobile">
 					<a href="#">
                         <img src="images/hardware/BlackBerry-Q10-review-front-on.jpg" alt="" />
@@ -336,6 +365,20 @@
 							<span class="body">
 								<p>
 									Sony Ericson, Samsung, HTC, LG, Nokia and other Android devices.
+								</p>
+							</span>
+						</span>
+					</a>
+				</li>
+				<li class="data-recovery">
+					<a href="#">
+                        <img src="images/data_recover/phone-data-recovery-new.jpg" alt="" />
+						<span class="type">Data Recovery</span>
+						<span class="portfolio-item-content">
+							<span class="header">Recover Your Data</span>
+							<span class="body">
+								<p>
+									Recover your Data and important Contacts
 								</p>
 							</span>
 						</span>
@@ -417,23 +460,23 @@
 					
 			<div class="col-sm-9">
 				<div class="row"> 
-					<!-- <article class="col-sm-6 post-content">
-						<h5 class="hr2 blog-post-title"><a href="blog-post-slider-2.html">Slider Demo Post</a></h5>	
-							<a href="blog-post-slider-2.html">
+					<article class="col-sm-6 post-content">
+						<h5 class="hr2 blog-post-title"><a href="blog-post-slider-2.html">Genuine Accessories Available</a></h5>	
+							<a href="#">
 								<div id="carousel2" class="carousel slide">											
-								  Wrapper for slides
+								 <!--  Wrapper for slides -->
 								  <div class="carousel-inner">			  
 								    <div class="item active">
-                                        <img src="images/portfolio/social_media_hand_600x400.jpg" alt="" />
+                                        <img src="images/accessories/coolest-new-iphone-5-accessories.jpg" alt="" />
 								    </div>			    
 								    <div class="item">
-                                        <img src="images/portfolio/social_media_pen_600x400.jpg" alt="" />
+                                        <img src="images/accessories/t-mobile-mytouch-accessories.jpg" alt="" />
 								    </div>
 								    <div class="item">
-                                        <img src="images/portfolio/social_media_wood_600x400.jpg" alt="" />
+                                        <img src="images/accessories/HTC-Rhyme-w-accessories-600x400.jpg" alt="" />
 								    </div>		    
 								  </div>								
-								  Controls
+								 <!--  Controls -->
 								  <a class="left carousel-control" href="#carousel2" data-slide="prev">
 								    <i class="icon-angle-left"></i>
 								  </a>
@@ -444,15 +487,15 @@
 							</a>								
 						<div class="post-excerpt">
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid ad dolor nam?
+								We have all types of Genuine Mobile Accessories!!! Want a Delivery of Accessory?
 							</p>
 						</div>
-						<div class="post-meta">
+						<!-- <div class="post-meta">
 							<span class="date"><i class="icon-time"></i>September 15, 2013</span>				
 							<span class="author"><a href="blog-post-slider-2.html#comments" data-toggle="tooltip" title="Read Comments"><i class="icon-comments-alt"></i>5</a></span>
-						</div>
-					</article>	 -->				
-					<article class="col-sm-12 post-content">
+						</div> -->
+					</article>			
+					<article class="col-sm-6 post-content">
 						<h5 class="hr2 blog-post-title"><a href="blog-post-gallery-2.html">Repairing Labs at Mobile Solutions</a></h5>
 						<div class="gallery">
                             <a href="images/lab_images/iphone_5_mod_6.jpg" title="Iphone 5 Repairing"><img src="images/lab_images/iphone_5_mod_6.jpg" alt="" /></a>
