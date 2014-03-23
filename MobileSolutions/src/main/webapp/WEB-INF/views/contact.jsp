@@ -34,7 +34,8 @@
 <link href="assets/css/custom.css" rel="stylesheet">
 
 <!-- Predefined Color Scheme -->
-<link href="assets/css/colors/default.css" rel="stylesheet" id="colors">
+<!-- <link href="assets/css/colors/default.css" rel="stylesheet" id="colors"> -->
+<link href="assets/css/colors/purple.css" rel="stylesheet" id="colors">
 
 <!-- LESS - Development Only
 <link href="assets/less/styles.less" rel="stylesheet/less" />
@@ -256,7 +257,7 @@
 	
 	<div class="container footer-bottom">
 		<div class="footer-copyright">
-			<p>&copy; 2012 by MN-Sol All Rights Reserved.</p>
+			<p>&copy; 2014 by MN-Sol All Rights Reserved.</p>
 		</div>
 	</div>
 	

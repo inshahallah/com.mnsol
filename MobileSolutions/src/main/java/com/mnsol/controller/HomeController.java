@@ -44,4 +44,12 @@ public class HomeController {
 		return "index";
 	}
 	
+	@RequestMapping(value = "/comingsoon", method = RequestMethod.GET)
+	public String soonPage(Locale locale, Model model) {
+		logger.info("In soonPage", locale);
+		
+		
+		return "coming-soon";
+	}
+	
 }
